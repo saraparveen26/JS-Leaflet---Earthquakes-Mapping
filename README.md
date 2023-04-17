@@ -27,9 +27,9 @@ Following steps are involved in creating this visualization:
 
     I have used Leaflet to create a map that plots all the earthquakes from the dataset based on their longitude and latitude.
 
-        The data markers reflect the magnitude of the earthquake by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes appear larger, and earthquakes with greater depth appear darker in color.
-        The depth of the earth can be found as the third coordinate for each earthquake.
+    The data markers reflect the magnitude of the earthquake by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes appear larger, and earthquakes with greater depth appear darker in color.
+    The depth of the earth can be found as the third coordinate for each earthquake.
 
-        I have included popups that provide additional information about the earthquake when its associated marker is clicked such as location, time, magnitude and depth of the earthquake.
+    I have included popups that provide additional information about the earthquake when its associated marker is clicked such as location, time, magnitude and depth of the earthquake.
 
-        I have created a legend that provides context for your map data based on depth of the earthquake.
+    I have created a legend that provides context for your map data based on depth of the earthquake.
